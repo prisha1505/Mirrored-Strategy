@@ -1,1 +1,1 @@
-# Mirrored-Strategy
+# Mirrored Strategy: Basic
